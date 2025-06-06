@@ -1,3 +1,11 @@
+⚠ Notice
+
+This project is proprietary. No use, reproduction, modification, or distribution of this software or its source code is allowed without explicit written permission from the author, Methma Lochanie Rathnayaka.
+
+If you wish to reference this work or request usage permissions, please contact the author directly.
+
+Unauthorized use will be considered a violation of copyright and may lead to legal action.
+
 # Concurrent Banking Transaction System
 
 This project implements a concurrent banking transaction system that demonstrates thread-safe operations for bank account transactions. The system handles multiple concurrent transactions, balance checks, and transaction reversals while maintaining data consistency.
