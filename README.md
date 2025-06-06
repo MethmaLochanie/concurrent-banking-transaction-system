@@ -113,4 +113,10 @@ When running the application, you'll see:
 ## Requirements
 
 - Java 8 or higher
-- No external dependencies required 
+- No external dependencies required
+
+## Author & Institution
+Created as part of a concurrent programming coursework.
+- **Author:** M.L.Rathnayaka
+- **Institution:** Informatics Institute of Technology (IIT) affiliated by University of Westminster (UoW)
+- **Scenario:** 2 (Banking Transaction System)
